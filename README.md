@@ -1,12 +1,19 @@
 # issue-wanted: a prototype
-Web application to help beginners to start contributing into Haskell projects
+Web application to help beginners to start contributing into Haskell projects.
 
 
 This is a basic prototype of the [IssueWanted](https://github.com/kowainik/issue-wanted/) project.
+Not it displays GitHub Haskell repositories and issues labeled as `good-first-issue`.
 
 # Demonstration
-Now it looks pretty poor, but functionally it resembles the structure of the expected app. It downloads the data from GitHub into a database and shows it using rest api.
+Now it looks pretty poor: I __didn't work on UI__, but functionally it resembles the structure of the expected app. It downloads the data from GitHub into a database and shows it using rest api.
 
+![](https://github.com/demarkok/issue-wanted/blob/master/screen1.png)
+
+The repositories fetched from GitHub
+
+![](https://github.com/demarkok/issue-wanted/blob/master/screen2.png)
+The issues with the `good-first-issue` label in the selected repository.
 
 
 
