@@ -23,6 +23,10 @@ cabal.project.local
 .HTF/
 # Stack
 .stack-work/
+# Elm
+elm-stuff
+elm.js
+
 
 ### IDE/support
 # Vim
@@ -51,4 +55,6 @@ TAGS
 
 # other
 .DS_Store
+
+
 
