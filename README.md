@@ -5,6 +5,10 @@ Web application to help beginners to start contributing into Haskell projects
 This is a basic prototype of the [IssueWanted](https://github.com/kowainik/issue-wanted/) project.
 
 # Demonstration
+Now it looks pretty poor, but functionally it resembles the structure of the expected app. It downloads the data from github into database and shows it using rest api.
+
+
+
 
 # Project structure
 * `startDatabase.sh` runs PostgreSQL within docker. 
